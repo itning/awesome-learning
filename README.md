@@ -1,3 +1,5 @@
+# 学习
+
 | 标题                              | 链接                                                         |
 | --------------------------------- | ------------------------------------------------------------ |
 | java设计模式                      | [iluwatar/java-design-patterns: Design patterns implemented in Java (github.com)](https://github.com/iluwatar/java-design-patterns) |
@@ -34,9 +36,4 @@
 | 大数据学习面试                    | [wangzhiwubigdata/God-Of-BigData: 专注大数据学习面试，大数据成神之路开启。Flink/Spark/Hadoop/Hbase/Hive... (github.com)](https://github.com/wangzhiwubigdata/God-Of-BigData) |
 | 面试相关                          | [geekxh/hello-algorithm: 🌍「算法面试+算法知识」针对小白的算法训练 \|还包括：1、阿里、字节、滴滴 百篇大厂面经汇总 2、千本开源电子书 3、百张思维导图 （右侧来个 star 吧 🌹，English version supported） (github.com)](https://github.com/geekxh/hello-algorithm) |
 | kubernetes入门                    | [liuyi01/kubernetes-starter: kubernetes入门，包括kubernetes概念，架构设计，集群环境搭建，认证授权等。 (github.com)](https://github.com/liuyi01/kubernetes-starter) |
-|                                   |                                                              |
-|                                   |                                                              |
-|                                   |                                                              |
-|                                   |                                                              |
-|                                   |                                                              |
 
